@@ -11,8 +11,8 @@ https://khaledmasry0.github.io/SocialX/
 
 For Creating a React project
 
-###  `CSS`
-for styling
+###  `CSS` , `React-icons`
+for styling and icons
 
 <hr/>
 
