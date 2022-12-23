@@ -1,3 +1,21 @@
+<h1 align="center"> SocialX </h1>
+
+<h4 align="center"> SocialX is a designed tamplate with React </h4>
+
+## project Demo:
+https://khaledmasry0.github.io/SocialX/
+
+## In this Project I Used:
+
+### `Reactjs`
+
+For Creating a React project
+
+###  `CSS`
+for styling
+
+<hr/>
+
 ## I'm Khaled
 
 - 👨‍💻 Most of my projects are available in my [Portfolio](https://khaledmasry0.github.io/Portfolio/)
